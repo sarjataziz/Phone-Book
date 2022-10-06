@@ -47,7 +47,6 @@ namespace Phone_Book
             about_Us.MdiParent = this;
             about_Us.Show();
         }
-
         
         private void toolStripButton5_Click(object sender, EventArgs e)
         {
