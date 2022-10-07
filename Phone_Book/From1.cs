@@ -16,7 +16,6 @@ namespace Phone_Book
         {
             InitializeComponent();
         }
-
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             Application.Exit();
