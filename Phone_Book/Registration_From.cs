@@ -36,7 +36,6 @@ namespace Phone_Book
 
             this.InformationOfRegisterGroupBox.Enabled = true;
 
-
             //----------Clear TextBoxes-------------------------
 
             this.IdRegistrationTextBox.ResetText();
